@@ -1,5 +1,5 @@
 build-lists: true
-theme: Next, 1
+theme: Courier, 4
 autoscale: true
 
 [.footer: #### Igor Karpovich]
